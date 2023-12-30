@@ -1,0 +1,1 @@
+npm install @tensorflow-models/handpose @tensorflow/tfjs react-webcam

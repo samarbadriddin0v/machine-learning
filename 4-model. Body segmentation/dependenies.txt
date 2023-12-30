@@ -1,0 +1,1 @@
+npm install @tensorflow-models/body-pix @tensorflow/tfjs react-webcam
