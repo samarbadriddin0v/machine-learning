@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">TensorFlow.js Body Segmentation Models: Unveiling the Power of Real-time Human Pose Estimation</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="https://img.youtube.com/vi/Uk4DQybMkKY/maxresdefault.jpg" alt="project-image"></p>
 
-## Available Scripts
+<p id="description">Unlock the potential of real-time human pose estimation with our comprehensive course on TensorFlow.js Body Segmentation Models. In the rapidly evolving landscape of machine learning TensorFlow.js has emerged as a powerful tool for bringing the capabilities of deep learning models to the browser enabling seamless integration of AI into web applications. This course is designed to equip you with the skills and knowledge needed to harness the cutting-edge capabilities of body segmentation models using TensorFlow.js.</p>
 
-In the project directory, you can run:
+  
+  
+<h2>🧐 Features</h2>
 
-### `npm start`
+Here're some of the project's best features:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+*   TensorFlow.js Fundamentals
+*   Integration with Web Applications
+*   Best Practices and Pitfalls
+*   Fundamentals of Body Segmentation
+*   TensorFlow.js BodyPix Model
+*   Customizing and Training Models
+*   Project-Based Learning
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h2>🛠️ Installation Steps:</h2>
 
-### `npm test`
+<p>1. Install packages</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+npm install & yarn install
+```
 
-### `npm run build`
+<p>2. Start the app</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+npm run dev & yarn dev
+```
