@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Mastering Face Mesh Models with TensorFlow.js</h1>
 
-<p align="center"><img src="https://img.youtube.com/vi/E7c9bNXZzKw/sddefault.jpg" alt="project-image"></p>
+<p align="center"><img src="https://img.youtube.com/vi/E7c9bNXZzKw/maxresdefault.jpg" alt="project-image"></p>
 
 <p id="description">Unlock the power of facial recognition and mesh modeling in the browser with our comprehensive course "Mastering Face Mesh Models with TensorFlow.js." This hands-on program is designed for developers machine learning enthusiasts and web developers eager to delve into the exciting world of real-time facial landmark detection and manipulation using TensorFlow.js.</p>
 
