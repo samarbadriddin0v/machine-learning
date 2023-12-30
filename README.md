@@ -13,19 +13,19 @@ Here're some of the project's best features:
 * <b>Pose Detection</b> models focus on identifying and tracking the human body's skeletal structure allowing for the understanding of body postures and movements. These models leverage neural networks to analyze images or video frames and estimate the positions of joints and key body parts. Pose Detection finds applications in sports analytics fitness tracking human-computer interaction and healthcare. By providing a detailed understanding of body movements this technology contributes to the development of immersive experiences gesture-controlled interfaces and applications aimed at improving physical well-being.
 * <b>Body Segmentation</b> models are designed to separate and identify the human body from the background in images or videos. These models employ semantic segmentation techniques to precisely outline the contours of a person's body enabling a range of applications. Body Segmentation is crucial for virtual try-on experiences green screen effects in video production and augmented reality applications. By isolating the human form this technology facilitates more realistic and engaging visual experiences offering innovative solutions in fields like fashion entertainment and online communication.
 
-<h2>🛠️ Installation Steps:</h2>
+<h2>Project Screenshots:</h2>
 
-<p>1. Install packages</p>
+<h2>Face mesh model</h2>
+<img src="https://img.youtube.com/vi/E7c9bNXZzKw/maxresdefault.jpg" alt="project-screenshot" width="100%" height="400/">
 
-```
-npm install & yarn install
-```
+<h2>Hand pose model</h2>
+<img src="https://img.youtube.com/vi/mcdmO-yCGjg/maxresdefault.jpg" alt="project-screenshot" width="100%" height="400/">
 
-<p>2. Start the app</p>
+<h2>Pose Detection model</h2>
+<img src="https://img.youtube.com/vi/xM-5lN-w3Rc/maxresdefault.jpg" alt="project-screenshot" width="100%" height="400/">
 
-```
-npm run dev & yarn dev
-```
+<h2>Body Segmentation model</h2>
+<img src="https://img.youtube.com/vi/Uk4DQybMkKY/maxresdefault.jpg" alt="project-screenshot" width="100%" height="400/">
 
   
   
